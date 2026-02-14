@@ -28,23 +28,33 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 - Explored IAM groups: EC2-Admin, EC2-Support, S3-Support  
 - Inspected managed and inline policies attached to groups  
 **Screenshot:**  
-(Add screenshot here)
+
+<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/5c0e759f-0105-46b0-af40-76c10ee28531" />
 
 ### Task 2: Add Users to Groups
 - Added user-1 to the S3-Support group  
 - Added user-2 to the EC2-Support group  
 - Added user-3 to the EC2-Admin group  
 **Screenshot:**  
-(Add screenshot here)
+
+<img width="1912" height="913" alt="Screenshot 2026-02-07 103950" src="https://github.com/user-attachments/assets/1c994aac-5764-44ec-b8f1-3afb6a954471" />
+
+<img width="1913" height="919" alt="Screenshot 2026-02-07 104117" src="https://github.com/user-attachments/assets/4b48e60e-0638-4ee0-b694-5e7b4c3cdfb0" />
+
+<img width="1919" height="972" alt="Screenshot 2026-02-07 104508" src="https://github.com/user-attachments/assets/2b48e963-6b59-4079-b4f2-bca4eac679fb" />
 
 ### Task 3: Test IAM User Permissions
 - Logged in using IAM sign-in URL  
 - Verified S3 access for user-1  
 - Verified EC2 read-only access for user-2  
 - Verified EC2 administrative access for user-3  
-**Screenshot:**  
-(Add screenshot here)
+**Screenshot:**
 
+<img width="1911" height="974" alt="Screenshot 2026-02-07 111247" src="https://github.com/user-attachments/assets/a4595929-4b3e-492e-b8a8-cd848fa9eb61" />
+
+<img width="1919" height="978" alt="Screenshot 2026-02-07 110937" src="https://github.com/user-attachments/assets/a59f58e7-af0c-4ab9-91e1-564b0fbdf874" />
+
+<img width="1919" height="970" alt="Screenshot 2026-02-07 111938" src="https://github.com/user-attachments/assets/454ff101-904f-4276-9656-6a3fabb56678" />
 
 ## Workflow
 1. Accessed IAM console and reviewed users and groups.  
@@ -66,6 +76,9 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 
 ## Author
-**Name:** Your Name and (Reg No)
+**Name:** PRADEEP N
+
+**Reg No:** 212223060201
+
 **Course:** Introduction to Cloud Computing  
 
